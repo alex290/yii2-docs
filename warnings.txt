@@ -1,0 +1,3209 @@
+Array
+(
+    [0] => Array
+        (
+            [line] => 31
+            [file] => ..\yiisoft\yii2-apidoc\helpers\ApiMarkdown.php
+            [message] => No short description for element '$renderer'
+        )
+
+    [1] => Array
+        (
+            [line] => 38
+            [file] => ..\yiisoft\yii2-apidoc\helpers\ApiMarkdown.php
+            [message] => No docblock for element '$renderingContext'
+        )
+
+    [2] => Array
+        (
+            [line] => 38
+            [file] => ..\yiisoft\yii2-apidoc\helpers\ApiMarkdown.php
+            [message] => No short description for element '$renderingContext'
+        )
+
+    [3] => Array
+        (
+            [line] => 39
+            [file] => ..\yiisoft\yii2-apidoc\helpers\ApiMarkdown.php
+            [message] => No docblock for element '$headings'
+        )
+
+    [4] => Array
+        (
+            [line] => 39
+            [file] => ..\yiisoft\yii2-apidoc\helpers\ApiMarkdown.php
+            [message] => No short description for element '$headings'
+        )
+
+    [5] => Array
+        (
+            [line] => 60
+            [file] => ..\yiisoft\yii2-apidoc\helpers\ApiMarkdown.php
+            [message] => No docblock for element 'parse'
+        )
+
+    [6] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-apidoc\helpers\ApiMarkdownLaTeX.php
+            [message] => No short description for element '$renderer'
+        )
+
+    [7] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-apidoc\helpers\ApiMarkdownLaTeX.php
+            [message] => No docblock for element '$renderingContext'
+        )
+
+    [8] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-apidoc\helpers\ApiMarkdownLaTeX.php
+            [message] => No short description for element '$renderingContext'
+        )
+
+    [9] => Array
+        (
+            [line] => 17
+            [file] => ..\yiisoft\yii2-apidoc\helpers\IndexFileAnalyzer.php
+            [message] => No docblock for element '$title'
+        )
+
+    [10] => Array
+        (
+            [line] => 17
+            [file] => ..\yiisoft\yii2-apidoc\helpers\IndexFileAnalyzer.php
+            [message] => No short description for element '$title'
+        )
+
+    [11] => Array
+        (
+            [line] => 18
+            [file] => ..\yiisoft\yii2-apidoc\helpers\IndexFileAnalyzer.php
+            [message] => No docblock for element '$introduction'
+        )
+
+    [12] => Array
+        (
+            [line] => 18
+            [file] => ..\yiisoft\yii2-apidoc\helpers\IndexFileAnalyzer.php
+            [message] => No short description for element '$introduction'
+        )
+
+    [13] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No short description for element '$phpDocContext'
+        )
+
+    [14] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No docblock for element '$name'
+        )
+
+    [15] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No short description for element '$name'
+        )
+
+    [16] => Array
+        (
+            [line] => 29
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No docblock for element '$sourceFile'
+        )
+
+    [17] => Array
+        (
+            [line] => 29
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No short description for element '$sourceFile'
+        )
+
+    [18] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No docblock for element '$startLine'
+        )
+
+    [19] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No short description for element '$startLine'
+        )
+
+    [20] => Array
+        (
+            [line] => 31
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No docblock for element '$endLine'
+        )
+
+    [21] => Array
+        (
+            [line] => 31
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No short description for element '$endLine'
+        )
+
+    [22] => Array
+        (
+            [line] => 32
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No docblock for element '$shortDescription'
+        )
+
+    [23] => Array
+        (
+            [line] => 32
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No short description for element '$shortDescription'
+        )
+
+    [24] => Array
+        (
+            [line] => 33
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No docblock for element '$description'
+        )
+
+    [25] => Array
+        (
+            [line] => 33
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No short description for element '$description'
+        )
+
+    [26] => Array
+        (
+            [line] => 34
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No docblock for element '$since'
+        )
+
+    [27] => Array
+        (
+            [line] => 34
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No short description for element '$since'
+        )
+
+    [28] => Array
+        (
+            [line] => 35
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No docblock for element '$deprecatedSince'
+        )
+
+    [29] => Array
+        (
+            [line] => 35
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No short description for element '$deprecatedSince'
+        )
+
+    [30] => Array
+        (
+            [line] => 36
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No docblock for element '$deprecatedReason'
+        )
+
+    [31] => Array
+        (
+            [line] => 36
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No short description for element '$deprecatedReason'
+        )
+
+    [32] => Array
+        (
+            [line] => 40
+            [file] => ..\yiisoft\yii2-apidoc\models\BaseDoc.php
+            [message] => No short description for element '$tags'
+        )
+
+    [33] => Array
+        (
+            [line] => 23
+            [file] => ..\yiisoft\yii2-apidoc\models\ClassDoc.php
+            [message] => No short description for element '$parentClass'
+        )
+
+    [34] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-apidoc\models\ClassDoc.php
+            [message] => No short description for element '$isAbstract'
+        )
+
+    [35] => Array
+        (
+            [line] => 31
+            [file] => ..\yiisoft\yii2-apidoc\models\ClassDoc.php
+            [message] => No short description for element '$isFinal'
+        )
+
+    [36] => Array
+        (
+            [line] => 35
+            [file] => ..\yiisoft\yii2-apidoc\models\ClassDoc.php
+            [message] => No short description for element '$interfaces'
+        )
+
+    [37] => Array
+        (
+            [line] => 39
+            [file] => ..\yiisoft\yii2-apidoc\models\ClassDoc.php
+            [message] => No short description for element '$traits'
+        )
+
+    [38] => Array
+        (
+            [line] => 44
+            [file] => ..\yiisoft\yii2-apidoc\models\ClassDoc.php
+            [message] => No short description for element '$subclasses'
+        )
+
+    [39] => Array
+        (
+            [line] => 48
+            [file] => ..\yiisoft\yii2-apidoc\models\ClassDoc.php
+            [message] => No short description for element '$events'
+        )
+
+    [40] => Array
+        (
+            [line] => 52
+            [file] => ..\yiisoft\yii2-apidoc\models\ClassDoc.php
+            [message] => No short description for element '$constants'
+        )
+
+    [41] => Array
+        (
+            [line] => 18
+            [file] => ..\yiisoft\yii2-apidoc\models\ConstDoc.php
+            [message] => No docblock for element '$definedBy'
+        )
+
+    [42] => Array
+        (
+            [line] => 18
+            [file] => ..\yiisoft\yii2-apidoc\models\ConstDoc.php
+            [message] => No short description for element '$definedBy'
+        )
+
+    [43] => Array
+        (
+            [line] => 19
+            [file] => ..\yiisoft\yii2-apidoc\models\ConstDoc.php
+            [message] => No docblock for element '$value'
+        )
+
+    [44] => Array
+        (
+            [line] => 19
+            [file] => ..\yiisoft\yii2-apidoc\models\ConstDoc.php
+            [message] => No short description for element '$value'
+        )
+
+    [45] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-apidoc\models\Context.php
+            [message] => No short description for element '$classes'
+        )
+
+    [46] => Array
+        (
+            [line] => 31
+            [file] => ..\yiisoft\yii2-apidoc\models\Context.php
+            [message] => No short description for element '$interfaces'
+        )
+
+    [47] => Array
+        (
+            [line] => 35
+            [file] => ..\yiisoft\yii2-apidoc\models\Context.php
+            [message] => No short description for element '$traits'
+        )
+
+    [48] => Array
+        (
+            [line] => 39
+            [file] => ..\yiisoft\yii2-apidoc\models\Context.php
+            [message] => No short description for element '$errors'
+        )
+
+    [49] => Array
+        (
+            [line] => 44
+            [file] => ..\yiisoft\yii2-apidoc\models\Context.php
+            [message] => No short description for element '$warnings'
+        )
+
+    [50] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-apidoc\models\EventDoc.php
+            [message] => No docblock for element '$type'
+        )
+
+    [51] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-apidoc\models\EventDoc.php
+            [message] => No short description for element '$type'
+        )
+
+    [52] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\models\EventDoc.php
+            [message] => No docblock for element '$types'
+        )
+
+    [53] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\models\EventDoc.php
+            [message] => No short description for element '$types'
+        )
+
+    [54] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-apidoc\models\FunctionDoc.php
+            [message] => No short description for element '$params'
+        )
+
+    [55] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-apidoc\models\FunctionDoc.php
+            [message] => No docblock for element '$exceptions'
+        )
+
+    [56] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-apidoc\models\FunctionDoc.php
+            [message] => No short description for element '$exceptions'
+        )
+
+    [57] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-apidoc\models\FunctionDoc.php
+            [message] => No docblock for element '$return'
+        )
+
+    [58] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-apidoc\models\FunctionDoc.php
+            [message] => No short description for element '$return'
+        )
+
+    [59] => Array
+        (
+            [line] => 29
+            [file] => ..\yiisoft\yii2-apidoc\models\FunctionDoc.php
+            [message] => No docblock for element '$returnType'
+        )
+
+    [60] => Array
+        (
+            [line] => 29
+            [file] => ..\yiisoft\yii2-apidoc\models\FunctionDoc.php
+            [message] => No short description for element '$returnType'
+        )
+
+    [61] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-apidoc\models\FunctionDoc.php
+            [message] => No docblock for element '$returnTypes'
+        )
+
+    [62] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-apidoc\models\FunctionDoc.php
+            [message] => No short description for element '$returnTypes'
+        )
+
+    [63] => Array
+        (
+            [line] => 31
+            [file] => ..\yiisoft\yii2-apidoc\models\FunctionDoc.php
+            [message] => No docblock for element '$isReturnByReference'
+        )
+
+    [64] => Array
+        (
+            [line] => 31
+            [file] => ..\yiisoft\yii2-apidoc\models\FunctionDoc.php
+            [message] => No short description for element '$isReturnByReference'
+        )
+
+    [65] => Array
+        (
+            [line] => 18
+            [file] => ..\yiisoft\yii2-apidoc\models\InterfaceDoc.php
+            [message] => No docblock for element '$parentInterfaces'
+        )
+
+    [66] => Array
+        (
+            [line] => 18
+            [file] => ..\yiisoft\yii2-apidoc\models\InterfaceDoc.php
+            [message] => No short description for element '$parentInterfaces'
+        )
+
+    [67] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-apidoc\models\InterfaceDoc.php
+            [message] => No docblock for element '$implementedBy'
+        )
+
+    [68] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-apidoc\models\InterfaceDoc.php
+            [message] => No short description for element '$implementedBy'
+        )
+
+    [69] => Array
+        (
+            [line] => 18
+            [file] => ..\yiisoft\yii2-apidoc\models\MethodDoc.php
+            [message] => No docblock for element '$isAbstract'
+        )
+
+    [70] => Array
+        (
+            [line] => 18
+            [file] => ..\yiisoft\yii2-apidoc\models\MethodDoc.php
+            [message] => No short description for element '$isAbstract'
+        )
+
+    [71] => Array
+        (
+            [line] => 19
+            [file] => ..\yiisoft\yii2-apidoc\models\MethodDoc.php
+            [message] => No docblock for element '$isFinal'
+        )
+
+    [72] => Array
+        (
+            [line] => 19
+            [file] => ..\yiisoft\yii2-apidoc\models\MethodDoc.php
+            [message] => No short description for element '$isFinal'
+        )
+
+    [73] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-apidoc\models\MethodDoc.php
+            [message] => No docblock for element '$isStatic'
+        )
+
+    [74] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-apidoc\models\MethodDoc.php
+            [message] => No short description for element '$isStatic'
+        )
+
+    [75] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\models\MethodDoc.php
+            [message] => No docblock for element '$visibility'
+        )
+
+    [76] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\models\MethodDoc.php
+            [message] => No short description for element '$visibility'
+        )
+
+    [77] => Array
+        (
+            [line] => 23
+            [file] => ..\yiisoft\yii2-apidoc\models\MethodDoc.php
+            [message] => No docblock for element '$definedBy'
+        )
+
+    [78] => Array
+        (
+            [line] => 23
+            [file] => ..\yiisoft\yii2-apidoc\models\MethodDoc.php
+            [message] => No short description for element '$definedBy'
+        )
+
+    [79] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No docblock for element '$name'
+        )
+
+    [80] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No short description for element '$name'
+        )
+
+    [81] => Array
+        (
+            [line] => 22
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No docblock for element '$typeHint'
+        )
+
+    [82] => Array
+        (
+            [line] => 22
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No short description for element '$typeHint'
+        )
+
+    [83] => Array
+        (
+            [line] => 23
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No docblock for element '$isOptional'
+        )
+
+    [84] => Array
+        (
+            [line] => 23
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No short description for element '$isOptional'
+        )
+
+    [85] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No docblock for element '$defaultValue'
+        )
+
+    [86] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No short description for element '$defaultValue'
+        )
+
+    [87] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No docblock for element '$isPassedByReference'
+        )
+
+    [88] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No short description for element '$isPassedByReference'
+        )
+
+    [89] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No docblock for element '$description'
+        )
+
+    [90] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No short description for element '$description'
+        )
+
+    [91] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No docblock for element '$type'
+        )
+
+    [92] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No short description for element '$type'
+        )
+
+    [93] => Array
+        (
+            [line] => 29
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No docblock for element '$types'
+        )
+
+    [94] => Array
+        (
+            [line] => 29
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No short description for element '$types'
+        )
+
+    [95] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No docblock for element '$sourceFile'
+        )
+
+    [96] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-apidoc\models\ParamDoc.php
+            [message] => No short description for element '$sourceFile'
+        )
+
+    [97] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No docblock for element '$visibility'
+        )
+
+    [98] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No short description for element '$visibility'
+        )
+
+    [99] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No docblock for element '$isStatic'
+        )
+
+    [100] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No short description for element '$isStatic'
+        )
+
+    [101] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No docblock for element '$type'
+        )
+
+    [102] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No short description for element '$type'
+        )
+
+    [103] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No docblock for element '$types'
+        )
+
+    [104] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No short description for element '$types'
+        )
+
+    [105] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No docblock for element '$defaultValue'
+        )
+
+    [106] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No short description for element '$defaultValue'
+        )
+
+    [107] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No docblock for element '$getter'
+        )
+
+    [108] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No short description for element '$getter'
+        )
+
+    [109] => Array
+        (
+            [line] => 31
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No docblock for element '$setter'
+        )
+
+    [110] => Array
+        (
+            [line] => 31
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No short description for element '$setter'
+        )
+
+    [111] => Array
+        (
+            [line] => 33
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No docblock for element '$definedBy'
+        )
+
+    [112] => Array
+        (
+            [line] => 33
+            [file] => ..\yiisoft\yii2-apidoc\models\PropertyDoc.php
+            [message] => No short description for element '$definedBy'
+        )
+
+    [113] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-apidoc\models\TraitDoc.php
+            [message] => No docblock for element '$usedBy'
+        )
+
+    [114] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-apidoc\models\TraitDoc.php
+            [message] => No short description for element '$usedBy'
+        )
+
+    [115] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\models\TraitDoc.php
+            [message] => No docblock for element '$traits'
+        )
+
+    [116] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\models\TraitDoc.php
+            [message] => No short description for element '$traits'
+        )
+
+    [117] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-apidoc\models\TypeDoc.php
+            [message] => No docblock for element '$authors'
+        )
+
+    [118] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-apidoc\models\TypeDoc.php
+            [message] => No short description for element '$authors'
+        )
+
+    [119] => Array
+        (
+            [line] => 32
+            [file] => ..\yiisoft\yii2-apidoc\models\TypeDoc.php
+            [message] => No short description for element '$methods'
+        )
+
+    [120] => Array
+        (
+            [line] => 36
+            [file] => ..\yiisoft\yii2-apidoc\models\TypeDoc.php
+            [message] => No short description for element '$properties'
+        )
+
+    [121] => Array
+        (
+            [line] => 37
+            [file] => ..\yiisoft\yii2-apidoc\models\TypeDoc.php
+            [message] => No docblock for element '$namespace'
+        )
+
+    [122] => Array
+        (
+            [line] => 37
+            [file] => ..\yiisoft\yii2-apidoc\models\TypeDoc.php
+            [message] => No short description for element '$namespace'
+        )
+
+    [123] => Array
+        (
+            [line] => 39
+            [file] => ..\yiisoft\yii2-apidoc\renderers\BaseRenderer.php
+            [message] => No docblock for element '$guidePrefix'
+        )
+
+    [124] => Array
+        (
+            [line] => 39
+            [file] => ..\yiisoft\yii2-apidoc\renderers\BaseRenderer.php
+            [message] => No short description for element '$guidePrefix'
+        )
+
+    [125] => Array
+        (
+            [line] => 40
+            [file] => ..\yiisoft\yii2-apidoc\renderers\BaseRenderer.php
+            [message] => No docblock for element '$apiUrl'
+        )
+
+    [126] => Array
+        (
+            [line] => 40
+            [file] => ..\yiisoft\yii2-apidoc\renderers\BaseRenderer.php
+            [message] => No short description for element '$apiUrl'
+        )
+
+    [127] => Array
+        (
+            [line] => 53
+            [file] => ..\yiisoft\yii2-apidoc\renderers\BaseRenderer.php
+            [message] => No docblock for element '$guideUrl'
+        )
+
+    [128] => Array
+        (
+            [line] => 53
+            [file] => ..\yiisoft\yii2-apidoc\renderers\BaseRenderer.php
+            [message] => No short description for element '$guideUrl'
+        )
+
+    [129] => Array
+        (
+            [line] => 56
+            [file] => ..\yiisoft\yii2-apidoc\renderers\BaseRenderer.php
+            [message] => No docblock for element 'init'
+        )
+
+    [130] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\ApiRenderer.php
+            [message] => No docblock for element '$layout'
+        )
+
+    [131] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\ApiRenderer.php
+            [message] => No short description for element '$layout'
+        )
+
+    [132] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\ApiRenderer.php
+            [message] => No docblock for element '$indexView'
+        )
+
+    [133] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\ApiRenderer.php
+            [message] => No short description for element '$indexView'
+        )
+
+    [134] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\GuideRenderer.php
+            [message] => No docblock for element '$layout'
+        )
+
+    [135] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\GuideRenderer.php
+            [message] => No short description for element '$layout'
+        )
+
+    [136] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\AssetBundle.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [137] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\AssetBundle.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [138] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\AssetBundle.php
+            [message] => No docblock for element '$css'
+        )
+
+    [139] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\AssetBundle.php
+            [message] => No short description for element '$css'
+        )
+
+    [140] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\AssetBundle.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [141] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\AssetBundle.php
+            [message] => No short description for element '$depends'
+        )
+
+    [142] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\AssetBundle.php
+            [message] => No docblock for element '$jsOptions'
+        )
+
+    [143] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\AssetBundle.php
+            [message] => No short description for element '$jsOptions'
+        )
+
+    [144] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\HighlightBundle.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [145] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\HighlightBundle.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [146] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\HighlightBundle.php
+            [message] => No docblock for element '$css'
+        )
+
+    [147] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\HighlightBundle.php
+            [message] => No short description for element '$css'
+        )
+
+    [148] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\JsSearchAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [149] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\JsSearchAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [150] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\JsSearchAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [151] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\JsSearchAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [152] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\JsSearchAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [153] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\JsSearchAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+    [154] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\JsSearchAsset.php
+            [message] => No docblock for element '$jsOptions'
+        )
+
+    [155] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\JsSearchAsset.php
+            [message] => No short description for element '$jsOptions'
+        )
+
+    [156] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\JsSearchAsset.php
+            [message] => No docblock for element '$publishOptions'
+        )
+
+    [157] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-apidoc\templates\bootstrap\assets\JsSearchAsset.php
+            [message] => No short description for element '$publishOptions'
+        )
+
+    [158] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-apidoc\templates\html\GuideRenderer.php
+            [message] => No docblock for element '$layout'
+        )
+
+    [159] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-apidoc\templates\html\GuideRenderer.php
+            [message] => No short description for element '$layout'
+        )
+
+    [160] => Array
+        (
+            [line] => 148
+            [file] => ..\yiisoft\yii2-apidoc\templates\html\GuideRenderer.php
+            [message] => No docblock for element 'getGuideReferences'
+        )
+
+    [161] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\templates\online\ApiRenderer.php
+            [message] => No docblock for element '$layout'
+        )
+
+    [162] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-apidoc\templates\online\ApiRenderer.php
+            [message] => No short description for element '$layout'
+        )
+
+    [163] => Array
+        (
+            [line] => 22
+            [file] => ..\yiisoft\yii2-apidoc\templates\online\ApiRenderer.php
+            [message] => No docblock for element '$indexView'
+        )
+
+    [164] => Array
+        (
+            [line] => 22
+            [file] => ..\yiisoft\yii2-apidoc\templates\online\ApiRenderer.php
+            [message] => No short description for element '$indexView'
+        )
+
+    [165] => Array
+        (
+            [line] => 22
+            [file] => ..\yiisoft\yii2-authclient\src\widgets\AuthChoiceAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [166] => Array
+        (
+            [line] => 22
+            [file] => ..\yiisoft\yii2-authclient\src\widgets\AuthChoiceAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [167] => Array
+        (
+            [line] => 23
+            [file] => ..\yiisoft\yii2-authclient\src\widgets\AuthChoiceAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [168] => Array
+        (
+            [line] => 23
+            [file] => ..\yiisoft\yii2-authclient\src\widgets\AuthChoiceAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [169] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-authclient\src\widgets\AuthChoiceAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [170] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-authclient\src\widgets\AuthChoiceAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+    [171] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-authclient\src\widgets\AuthChoiceStyleAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [172] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-authclient\src\widgets\AuthChoiceStyleAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [173] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-authclient\src\widgets\AuthChoiceStyleAsset.php
+            [message] => No docblock for element '$css'
+        )
+
+    [174] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-authclient\src\widgets\AuthChoiceStyleAsset.php
+            [message] => No short description for element '$css'
+        )
+
+    [175] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [176] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [177] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapAsset.php
+            [message] => No docblock for element '$css'
+        )
+
+    [178] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapAsset.php
+            [message] => No short description for element '$css'
+        )
+
+    [179] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapPluginAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [180] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapPluginAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [181] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapPluginAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [182] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapPluginAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [183] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapPluginAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [184] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapPluginAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+    [185] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapThemeAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [186] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapThemeAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [187] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapThemeAsset.php
+            [message] => No docblock for element '$css'
+        )
+
+    [188] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapThemeAsset.php
+            [message] => No short description for element '$css'
+        )
+
+    [189] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapThemeAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [190] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-bootstrap\src\BootstrapThemeAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+    [191] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-debug\src\FlattenException.php
+            [message] => No short description for element '$message'
+        )
+
+    [192] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-debug\src\FlattenException.php
+            [message] => No short description for element '$code'
+        )
+
+    [193] => Array
+        (
+            [line] => 32
+            [file] => ..\yiisoft\yii2-debug\src\FlattenException.php
+            [message] => No short description for element '$file'
+        )
+
+    [194] => Array
+        (
+            [line] => 36
+            [file] => ..\yiisoft\yii2-debug\src\FlattenException.php
+            [message] => No short description for element '$line'
+        )
+
+    [195] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-debug\src\LogTarget.php
+            [message] => No short description for element '$module'
+        )
+
+    [196] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-debug\src\LogTarget.php
+            [message] => No short description for element '$tag'
+        )
+
+    [197] => Array
+        (
+            [line] => 62
+            [file] => ..\yiisoft\yii2-debug\src\Module.php
+            [message] => No short description for element '$logTarget'
+        )
+
+    [198] => Array
+        (
+            [line] => 41
+            [file] => ..\yiisoft\yii2-debug\src\Panel.php
+            [message] => No short description for element '$module'
+        )
+
+    [199] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-debug\src\actions\db\ExplainAction.php
+            [message] => No short description for element '$panel'
+        )
+
+    [200] => Array
+        (
+            [line] => 57
+            [file] => ..\yiisoft\yii2-debug\src\models\Router.php
+            [message] => No short description for element '$hasMatch'
+        )
+
+    [201] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-debug\src\models\search\Event.php
+            [message] => No docblock for element '$name'
+        )
+
+    [202] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-debug\src\models\search\Event.php
+            [message] => No short description for element '$name'
+        )
+
+    [203] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-debug\src\models\search\Event.php
+            [message] => No docblock for element '$class'
+        )
+
+    [204] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-debug\src\models\search\Event.php
+            [message] => No short description for element '$class'
+        )
+
+    [205] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-debug\src\models\search\Event.php
+            [message] => No docblock for element '$senderClass'
+        )
+
+    [206] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-debug\src\models\search\Event.php
+            [message] => No short description for element '$senderClass'
+        )
+
+    [207] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-debug\src\models\timeline\DataProvider.php
+            [message] => No short description for element '$panel'
+        )
+
+    [208] => Array
+        (
+            [line] => 64
+            [file] => ..\yiisoft\yii2-debug\src\models\timeline\Svg.php
+            [message] => No short description for element '$panel'
+        )
+
+    [209] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-elasticsearch\BulkCommand.php
+            [message] => No short description for element '$db'
+        )
+
+    [210] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-elasticsearch\Command.php
+            [message] => No short description for element '$db'
+        )
+
+    [211] => Array
+        (
+            [line] => 105
+            [file] => ..\yiisoft\yii2-elasticsearch\Connection.php
+            [message] => No docblock for element 'init'
+        )
+
+    [212] => Array
+        (
+            [line] => 592
+            [file] => ..\yiisoft\yii2-elasticsearch\Connection.php
+            [message] => No docblock for element 'getNodeInfo'
+        )
+
+    [213] => Array
+        (
+            [line] => 597
+            [file] => ..\yiisoft\yii2-elasticsearch\Connection.php
+            [message] => No docblock for element 'getClusterState'
+        )
+
+    [214] => Array
+        (
+            [line] => 32
+            [file] => ..\yiisoft\yii2-elasticsearch\DebugAction.php
+            [message] => No short description for element '$panel'
+        )
+
+    [215] => Array
+        (
+            [line] => 36
+            [file] => ..\yiisoft\yii2-elasticsearch\DebugAction.php
+            [message] => No short description for element '$controller'
+        )
+
+    [216] => Array
+        (
+            [line] => 39
+            [file] => ..\yiisoft\yii2-elasticsearch\DebugAction.php
+            [message] => No docblock for element 'run'
+        )
+
+    [217] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-elasticsearch\DebugPanel.php
+            [message] => No docblock for element '$db'
+        )
+
+    [218] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-elasticsearch\DebugPanel.php
+            [message] => No short description for element '$db'
+        )
+
+    [219] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-elasticsearch\DebugPanel.php
+            [message] => No docblock for element 'init'
+        )
+
+    [220] => Array
+        (
+            [line] => 155
+            [file] => ..\yiisoft\yii2-elasticsearch\DebugPanel.php
+            [message] => No docblock for element 'calculateTimings'
+        )
+
+    [221] => Array
+        (
+            [line] => 414
+            [file] => ..\yiisoft\yii2-elasticsearch\QueryBuilder.php
+            [message] => No docblock for element 'buildCompositeInCondition'
+        )
+
+    [222] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-gii\src\GiiAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [223] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-gii\src\GiiAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [224] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-gii\src\GiiAsset.php
+            [message] => No docblock for element '$css'
+        )
+
+    [225] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-gii\src\GiiAsset.php
+            [message] => No short description for element '$css'
+        )
+
+    [226] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-gii\src\GiiAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [227] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-gii\src\GiiAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [228] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-gii\src\GiiAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [229] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-gii\src\GiiAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+    [230] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-gii\src\components\ActiveField.php
+            [message] => No short description for element '$model'
+        )
+
+    [231] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-gii\src\console\GenerateAction.php
+            [message] => No short description for element '$generator'
+        )
+
+    [232] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-gii\src\console\GenerateAction.php
+            [message] => No short description for element '$controller'
+        )
+
+    [233] => Array
+        (
+            [line] => 42
+            [file] => ..\yiisoft\yii2-gii\src\console\GenerateAction.php
+            [message] => No docblock for element 'displayValidationErrors'
+        )
+
+    [234] => Array
+        (
+            [line] => 51
+            [file] => ..\yiisoft\yii2-gii\src\console\GenerateAction.php
+            [message] => No docblock for element 'generateCode'
+        )
+
+    [235] => Array
+        (
+            [line] => 33
+            [file] => ..\yiisoft\yii2-gii\src\console\GenerateController.php
+            [message] => No short description for element '$module'
+        )
+
+    [236] => Array
+        (
+            [line] => 106
+            [file] => ..\yiisoft\yii2-gii\src\console\GenerateController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [237] => Array
+        (
+            [line] => 202
+            [file] => ..\yiisoft\yii2-gii\src\console\GenerateController.php
+            [message] => No docblock for element 'formatHint'
+        )
+
+    [238] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-gii\src\controllers\DefaultController.php
+            [message] => No docblock for element '$layout'
+        )
+
+    [239] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2-gii\src\controllers\DefaultController.php
+            [message] => No short description for element '$layout'
+        )
+
+    [240] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-gii\src\controllers\DefaultController.php
+            [message] => No short description for element '$module'
+        )
+
+    [241] => Array
+        (
+            [line] => 29
+            [file] => ..\yiisoft\yii2-gii\src\controllers\DefaultController.php
+            [message] => No short description for element '$generator'
+        )
+
+    [242] => Array
+        (
+            [line] => 42
+            [file] => ..\yiisoft\yii2-gii\src\controllers\DefaultController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [243] => Array
+        (
+            [line] => 49
+            [file] => ..\yiisoft\yii2-gii\src\controllers\DefaultController.php
+            [message] => No docblock for element 'actionView'
+        )
+
+    [244] => Array
+        (
+            [line] => 75
+            [file] => ..\yiisoft\yii2-gii\src\controllers\DefaultController.php
+            [message] => No docblock for element 'actionPreview'
+        )
+
+    [245] => Array
+        (
+            [line] => 92
+            [file] => ..\yiisoft\yii2-gii\src\controllers\DefaultController.php
+            [message] => No docblock for element 'actionDiff'
+        )
+
+    [246] => Array
+        (
+            [line] => 35
+            [file] => ..\yiisoft\yii2-gii\src\generators\crud\Generator.php
+            [message] => No docblock for element '$modelClass'
+        )
+
+    [247] => Array
+        (
+            [line] => 35
+            [file] => ..\yiisoft\yii2-gii\src\generators\crud\Generator.php
+            [message] => No short description for element '$modelClass'
+        )
+
+    [248] => Array
+        (
+            [line] => 36
+            [file] => ..\yiisoft\yii2-gii\src\generators\crud\Generator.php
+            [message] => No docblock for element '$controllerClass'
+        )
+
+    [249] => Array
+        (
+            [line] => 36
+            [file] => ..\yiisoft\yii2-gii\src\generators\crud\Generator.php
+            [message] => No short description for element '$controllerClass'
+        )
+
+    [250] => Array
+        (
+            [line] => 37
+            [file] => ..\yiisoft\yii2-gii\src\generators\crud\Generator.php
+            [message] => No docblock for element '$viewPath'
+        )
+
+    [251] => Array
+        (
+            [line] => 37
+            [file] => ..\yiisoft\yii2-gii\src\generators\crud\Generator.php
+            [message] => No short description for element '$viewPath'
+        )
+
+    [252] => Array
+        (
+            [line] => 38
+            [file] => ..\yiisoft\yii2-gii\src\generators\crud\Generator.php
+            [message] => No docblock for element '$baseControllerClass'
+        )
+
+    [253] => Array
+        (
+            [line] => 38
+            [file] => ..\yiisoft\yii2-gii\src\generators\crud\Generator.php
+            [message] => No short description for element '$baseControllerClass'
+        )
+
+    [254] => Array
+        (
+            [line] => 39
+            [file] => ..\yiisoft\yii2-gii\src\generators\crud\Generator.php
+            [message] => No docblock for element '$indexWidgetType'
+        )
+
+    [255] => Array
+        (
+            [line] => 39
+            [file] => ..\yiisoft\yii2-gii\src\generators\crud\Generator.php
+            [message] => No short description for element '$indexWidgetType'
+        )
+
+    [256] => Array
+        (
+            [line] => 40
+            [file] => ..\yiisoft\yii2-gii\src\generators\crud\Generator.php
+            [message] => No docblock for element '$searchModelClass'
+        )
+
+    [257] => Array
+        (
+            [line] => 40
+            [file] => ..\yiisoft\yii2-gii\src\generators\crud\Generator.php
+            [message] => No short description for element '$searchModelClass'
+        )
+
+    [258] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No docblock for element '$vendorName'
+        )
+
+    [259] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No short description for element '$vendorName'
+        )
+
+    [260] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No docblock for element '$packageName'
+        )
+
+    [261] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No short description for element '$packageName'
+        )
+
+    [262] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No docblock for element '$namespace'
+        )
+
+    [263] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No short description for element '$namespace'
+        )
+
+    [264] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No docblock for element '$type'
+        )
+
+    [265] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No short description for element '$type'
+        )
+
+    [266] => Array
+        (
+            [line] => 29
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No docblock for element '$keywords'
+        )
+
+    [267] => Array
+        (
+            [line] => 29
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No short description for element '$keywords'
+        )
+
+    [268] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No docblock for element '$title'
+        )
+
+    [269] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No short description for element '$title'
+        )
+
+    [270] => Array
+        (
+            [line] => 31
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No docblock for element '$description'
+        )
+
+    [271] => Array
+        (
+            [line] => 31
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No short description for element '$description'
+        )
+
+    [272] => Array
+        (
+            [line] => 32
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No docblock for element '$outputPath'
+        )
+
+    [273] => Array
+        (
+            [line] => 32
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No short description for element '$outputPath'
+        )
+
+    [274] => Array
+        (
+            [line] => 33
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No docblock for element '$license'
+        )
+
+    [275] => Array
+        (
+            [line] => 33
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No short description for element '$license'
+        )
+
+    [276] => Array
+        (
+            [line] => 34
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No docblock for element '$authorName'
+        )
+
+    [277] => Array
+        (
+            [line] => 34
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No short description for element '$authorName'
+        )
+
+    [278] => Array
+        (
+            [line] => 35
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No docblock for element '$authorEmail'
+        )
+
+    [279] => Array
+        (
+            [line] => 35
+            [file] => ..\yiisoft\yii2-gii\src\generators\extension\Generator.php
+            [message] => No short description for element '$authorEmail'
+        )
+
+    [280] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-gii\src\generators\form\Generator.php
+            [message] => No docblock for element '$modelClass'
+        )
+
+    [281] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-gii\src\generators\form\Generator.php
+            [message] => No short description for element '$modelClass'
+        )
+
+    [282] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-gii\src\generators\form\Generator.php
+            [message] => No docblock for element '$viewPath'
+        )
+
+    [283] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-gii\src\generators\form\Generator.php
+            [message] => No short description for element '$viewPath'
+        )
+
+    [284] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-gii\src\generators\form\Generator.php
+            [message] => No docblock for element '$viewName'
+        )
+
+    [285] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-gii\src\generators\form\Generator.php
+            [message] => No short description for element '$viewName'
+        )
+
+    [286] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-gii\src\generators\form\Generator.php
+            [message] => No docblock for element '$scenarioName'
+        )
+
+    [287] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-gii\src\generators\form\Generator.php
+            [message] => No short description for element '$scenarioName'
+        )
+
+    [288] => Array
+        (
+            [line] => 32
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$db'
+        )
+
+    [289] => Array
+        (
+            [line] => 32
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$db'
+        )
+
+    [290] => Array
+        (
+            [line] => 33
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$ns'
+        )
+
+    [291] => Array
+        (
+            [line] => 33
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$ns'
+        )
+
+    [292] => Array
+        (
+            [line] => 34
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$tableName'
+        )
+
+    [293] => Array
+        (
+            [line] => 34
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$tableName'
+        )
+
+    [294] => Array
+        (
+            [line] => 35
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$modelClass'
+        )
+
+    [295] => Array
+        (
+            [line] => 35
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$modelClass'
+        )
+
+    [296] => Array
+        (
+            [line] => 36
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$baseClass'
+        )
+
+    [297] => Array
+        (
+            [line] => 36
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$baseClass'
+        )
+
+    [298] => Array
+        (
+            [line] => 37
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$generateRelations'
+        )
+
+    [299] => Array
+        (
+            [line] => 37
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$generateRelations'
+        )
+
+    [300] => Array
+        (
+            [line] => 38
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$generateRelationsFromCurrentSchema'
+        )
+
+    [301] => Array
+        (
+            [line] => 38
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$generateRelationsFromCurrentSchema'
+        )
+
+    [302] => Array
+        (
+            [line] => 39
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$generateLabelsFromComments'
+        )
+
+    [303] => Array
+        (
+            [line] => 39
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$generateLabelsFromComments'
+        )
+
+    [304] => Array
+        (
+            [line] => 40
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$useTablePrefix'
+        )
+
+    [305] => Array
+        (
+            [line] => 40
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$useTablePrefix'
+        )
+
+    [306] => Array
+        (
+            [line] => 41
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$standardizeCapitals'
+        )
+
+    [307] => Array
+        (
+            [line] => 41
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$standardizeCapitals'
+        )
+
+    [308] => Array
+        (
+            [line] => 42
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$singularize'
+        )
+
+    [309] => Array
+        (
+            [line] => 42
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$singularize'
+        )
+
+    [310] => Array
+        (
+            [line] => 43
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$useSchemaName'
+        )
+
+    [311] => Array
+        (
+            [line] => 43
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$useSchemaName'
+        )
+
+    [312] => Array
+        (
+            [line] => 44
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$generateQuery'
+        )
+
+    [313] => Array
+        (
+            [line] => 44
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$generateQuery'
+        )
+
+    [314] => Array
+        (
+            [line] => 45
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$queryNs'
+        )
+
+    [315] => Array
+        (
+            [line] => 45
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$queryNs'
+        )
+
+    [316] => Array
+        (
+            [line] => 46
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$queryClass'
+        )
+
+    [317] => Array
+        (
+            [line] => 46
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$queryClass'
+        )
+
+    [318] => Array
+        (
+            [line] => 47
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$queryBaseClass'
+        )
+
+    [319] => Array
+        (
+            [line] => 47
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$queryBaseClass'
+        )
+
+    [320] => Array
+        (
+            [line] => 808
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$tableNames'
+        )
+
+    [321] => Array
+        (
+            [line] => 808
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$tableNames'
+        )
+
+    [322] => Array
+        (
+            [line] => 809
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No docblock for element '$classNames'
+        )
+
+    [323] => Array
+        (
+            [line] => 809
+            [file] => ..\yiisoft\yii2-gii\src\generators\model\Generator.php
+            [message] => No short description for element '$classNames'
+        )
+
+    [324] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-gii\src\generators\module\Generator.php
+            [message] => No docblock for element '$moduleClass'
+        )
+
+    [325] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-gii\src\generators\module\Generator.php
+            [message] => No short description for element '$moduleClass'
+        )
+
+    [326] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-gii\src\generators\module\Generator.php
+            [message] => No docblock for element '$moduleID'
+        )
+
+    [327] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-gii\src\generators\module\Generator.php
+            [message] => No short description for element '$moduleID'
+        )
+
+    [328] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-httpclient\src\debug\RequestExecuteAction.php
+            [message] => No short description for element '$panel'
+        )
+
+    [329] => Array
+        (
+            [line] => 33
+            [file] => ..\yiisoft\yii2-jui\src\Slider.php
+            [message] => No short description for element '$clientEventMap'
+        )
+
+    [330] => Array
+        (
+            [line] => 67
+            [file] => ..\yiisoft\yii2-jui\src\SliderInput.php
+            [message] => No short description for element '$clientEventMap'
+        )
+
+    [331] => Array
+        (
+            [line] => 52
+            [file] => ..\yiisoft\yii2-jui\src\Spinner.php
+            [message] => No short description for element '$clientEventMap'
+        )
+
+    [332] => Array
+        (
+            [line] => 311
+            [file] => ..\yiisoft\yii2-mongodb\src\QueryBuilder.php
+            [message] => No docblock for element 'group'
+        )
+
+    [333] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-mongodb\src\gii\model\Generator.php
+            [message] => No docblock for element '$db'
+        )
+
+    [334] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-mongodb\src\gii\model\Generator.php
+            [message] => No short description for element '$db'
+        )
+
+    [335] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-mongodb\src\gii\model\Generator.php
+            [message] => No docblock for element '$ns'
+        )
+
+    [336] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-mongodb\src\gii\model\Generator.php
+            [message] => No short description for element '$ns'
+        )
+
+    [337] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-mongodb\src\gii\model\Generator.php
+            [message] => No docblock for element '$collectionName'
+        )
+
+    [338] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-mongodb\src\gii\model\Generator.php
+            [message] => No short description for element '$collectionName'
+        )
+
+    [339] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-mongodb\src\gii\model\Generator.php
+            [message] => No docblock for element '$databaseName'
+        )
+
+    [340] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-mongodb\src\gii\model\Generator.php
+            [message] => No short description for element '$databaseName'
+        )
+
+    [341] => Array
+        (
+            [line] => 29
+            [file] => ..\yiisoft\yii2-mongodb\src\gii\model\Generator.php
+            [message] => No docblock for element '$attributeList'
+        )
+
+    [342] => Array
+        (
+            [line] => 29
+            [file] => ..\yiisoft\yii2-mongodb\src\gii\model\Generator.php
+            [message] => No short description for element '$attributeList'
+        )
+
+    [343] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-mongodb\src\gii\model\Generator.php
+            [message] => No docblock for element '$modelClass'
+        )
+
+    [344] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-mongodb\src\gii\model\Generator.php
+            [message] => No short description for element '$modelClass'
+        )
+
+    [345] => Array
+        (
+            [line] => 31
+            [file] => ..\yiisoft\yii2-mongodb\src\gii\model\Generator.php
+            [message] => No docblock for element '$baseClass'
+        )
+
+    [346] => Array
+        (
+            [line] => 31
+            [file] => ..\yiisoft\yii2-mongodb\src\gii\model\Generator.php
+            [message] => No short description for element '$baseClass'
+        )
+
+    [347] => Array
+        (
+            [line] => 404
+            [file] => ..\yiisoft\yii2-redis\src\LuaScriptBuilder.php
+            [message] => No docblock for element 'buildCompositeInCondition'
+        )
+
+    [348] => Array
+        (
+            [line] => 424
+            [file] => ..\yiisoft\yii2-redis\src\LuaScriptBuilder.php
+            [message] => No docblock for element 'buildCompareCondition'
+        )
+
+    [349] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-smarty\src\Extension.php
+            [message] => No short description for element '$viewRenderer'
+        )
+
+    [350] => Array
+        (
+            [line] => 32
+            [file] => ..\yiisoft\yii2-smarty\src\Extension.php
+            [message] => No short description for element '$smarty'
+        )
+
+    [351] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-sphinx\src\gii\model\Generator.php
+            [message] => No docblock for element '$db'
+        )
+
+    [352] => Array
+        (
+            [line] => 25
+            [file] => ..\yiisoft\yii2-sphinx\src\gii\model\Generator.php
+            [message] => No short description for element '$db'
+        )
+
+    [353] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-sphinx\src\gii\model\Generator.php
+            [message] => No docblock for element '$ns'
+        )
+
+    [354] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2-sphinx\src\gii\model\Generator.php
+            [message] => No short description for element '$ns'
+        )
+
+    [355] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-sphinx\src\gii\model\Generator.php
+            [message] => No docblock for element '$indexName'
+        )
+
+    [356] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-sphinx\src\gii\model\Generator.php
+            [message] => No short description for element '$indexName'
+        )
+
+    [357] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-sphinx\src\gii\model\Generator.php
+            [message] => No docblock for element '$modelClass'
+        )
+
+    [358] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2-sphinx\src\gii\model\Generator.php
+            [message] => No short description for element '$modelClass'
+        )
+
+    [359] => Array
+        (
+            [line] => 29
+            [file] => ..\yiisoft\yii2-sphinx\src\gii\model\Generator.php
+            [message] => No docblock for element '$baseClass'
+        )
+
+    [360] => Array
+        (
+            [line] => 29
+            [file] => ..\yiisoft\yii2-sphinx\src\gii\model\Generator.php
+            [message] => No short description for element '$baseClass'
+        )
+
+    [361] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-sphinx\src\gii\model\Generator.php
+            [message] => No docblock for element '$useIndexPrefix'
+        )
+
+    [362] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2-sphinx\src\gii\model\Generator.php
+            [message] => No short description for element '$useIndexPrefix'
+        )
+
+    [363] => Array
+        (
+            [line] => 10
+            [file] => ..\yiisoft\yii2-twig\src\GetAttr.php
+            [message] => No docblock for element 'yii\twig\GetAttr'
+        )
+
+    [364] => Array
+        (
+            [line] => 13
+            [file] => ..\yiisoft\yii2-twig\src\Profile.php
+            [message] => No docblock for element 'yii\twig\Profile'
+        )
+
+    [365] => Array
+        (
+            [line] => 15
+            [file] => ..\yiisoft\yii2-twig\src\Profile.php
+            [message] => No docblock for element '$view'
+        )
+
+    [366] => Array
+        (
+            [line] => 15
+            [file] => ..\yiisoft\yii2-twig\src\Profile.php
+            [message] => No short description for element '$view'
+        )
+
+    [367] => Array
+        (
+            [line] => 16
+            [file] => ..\yiisoft\yii2-twig\src\Profile.php
+            [message] => No docblock for element '$profiler'
+        )
+
+    [368] => Array
+        (
+            [line] => 16
+            [file] => ..\yiisoft\yii2-twig\src\Profile.php
+            [message] => No short description for element '$profiler'
+        )
+
+    [369] => Array
+        (
+            [line] => 19
+            [file] => ..\yiisoft\yii2-twig\src\Profile.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [370] => Array
+        (
+            [line] => 114
+            [file] => ..\yiisoft\yii2-twig\src\ViewRenderer.php
+            [message] => No docblock for element 'init'
+        )
+
+    [371] => Array
+        (
+            [line] => 10
+            [file] => ..\yiisoft\yii2-twig\src\html\BaseClassNode.php
+            [message] => No docblock for element 'yii\twig\html\BaseClassNode'
+        )
+
+    [372] => Array
+        (
+            [line] => 12
+            [file] => ..\yiisoft\yii2-twig\src\html\BaseClassNode.php
+            [message] => No docblock for element 'compile'
+        )
+
+    [373] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2-twig\src\html\BaseClassNode.php
+            [message] => No docblock for element 'getHelperMethod'
+        )
+
+    [374] => Array
+        (
+            [line] => 12
+            [file] => ..\yiisoft\yii2-twig\src\html\BaseCss_TokenParser.php
+            [message] => No docblock for element 'yii\twig\html\BaseCss_TokenParser'
+        )
+
+    [375] => Array
+        (
+            [line] => 14
+            [file] => ..\yiisoft\yii2-twig\src\html\BaseCss_TokenParser.php
+            [message] => No docblock for element 'parse'
+        )
+
+    [376] => Array
+        (
+            [line] => 27
+            [file] => ..\yiisoft\yii2-twig\src\html\BaseCss_TokenParser.php
+            [message] => No docblock for element 'getNodeClass'
+        )
+
+    [377] => Array
+        (
+            [line] => 10
+            [file] => ..\yiisoft\yii2-twig\src\html\CssClassNode.php
+            [message] => No docblock for element 'yii\twig\html\CssClassNode'
+        )
+
+    [378] => Array
+        (
+            [line] => 12
+            [file] => ..\yiisoft\yii2-twig\src\html\CssClassNode.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [379] => Array
+        (
+            [line] => 17
+            [file] => ..\yiisoft\yii2-twig\src\html\CssClassNode.php
+            [message] => No docblock for element 'getHelperMethod'
+        )
+
+    [380] => Array
+        (
+            [line] => 10
+            [file] => ..\yiisoft\yii2-twig\src\html\CssClass_TokenParser.php
+            [message] => No docblock for element 'yii\twig\html\CssClass_TokenParser'
+        )
+
+    [381] => Array
+        (
+            [line] => 12
+            [file] => ..\yiisoft\yii2-twig\src\html\CssClass_TokenParser.php
+            [message] => No docblock for element 'getNodeClass'
+        )
+
+    [382] => Array
+        (
+            [line] => 17
+            [file] => ..\yiisoft\yii2-twig\src\html\CssClass_TokenParser.php
+            [message] => No docblock for element 'getTag'
+        )
+
+    [383] => Array
+        (
+            [line] => 10
+            [file] => ..\yiisoft\yii2-twig\src\html\CssStyle_TokenParser.php
+            [message] => No docblock for element 'yii\twig\html\CssStyle_TokenParser'
+        )
+
+    [384] => Array
+        (
+            [line] => 12
+            [file] => ..\yiisoft\yii2-twig\src\html\CssStyle_TokenParser.php
+            [message] => No docblock for element 'getNodeClass'
+        )
+
+    [385] => Array
+        (
+            [line] => 17
+            [file] => ..\yiisoft\yii2-twig\src\html\CssStyle_TokenParser.php
+            [message] => No docblock for element 'getTag'
+        )
+
+    [386] => Array
+        (
+            [line] => 10
+            [file] => ..\yiisoft\yii2-twig\src\html\HtmlHelperExtension.php
+            [message] => No docblock for element 'yii\twig\html\HtmlHelperExtension'
+        )
+
+    [387] => Array
+        (
+            [line] => 12
+            [file] => ..\yiisoft\yii2-twig\src\html\HtmlHelperExtension.php
+            [message] => No docblock for element 'getTokenParsers'
+        )
+
+    [388] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2-twig\src\html\HtmlHelperExtension.php
+            [message] => No docblock for element 'getGlobals'
+        )
+
+    [389] => Array
+        (
+            [line] => 10
+            [file] => ..\yiisoft\yii2-twig\src\html\StyleClassNode.php
+            [message] => No docblock for element 'yii\twig\html\StyleClassNode'
+        )
+
+    [390] => Array
+        (
+            [line] => 12
+            [file] => ..\yiisoft\yii2-twig\src\html\StyleClassNode.php
+            [message] => No docblock for element '__construct'
+        )
+
+    [391] => Array
+        (
+            [line] => 17
+            [file] => ..\yiisoft\yii2-twig\src\html\StyleClassNode.php
+            [message] => No docblock for element 'getHelperMethod'
+        )
+
+    [392] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2\captcha\CaptchaAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [393] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2\captcha\CaptchaAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [394] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2\captcha\CaptchaAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [395] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2\captcha\CaptchaAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [396] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2\captcha\CaptchaAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [397] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2\captcha\CaptchaAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+    [398] => Array
+        (
+            [line] => 28
+            [file] => ..\yiisoft\yii2\console\UnknownCommandException.php
+            [message] => No short description for element '$application'
+        )
+
+    [399] => Array
+        (
+            [line] => 200
+            [file] => ..\yiisoft\yii2\data\ActiveDataProvider.php
+            [message] => No docblock for element '__clone'
+        )
+
+    [400] => Array
+        (
+            [line] => 22
+            [file] => ..\yiisoft\yii2\db\ExpressionBuilderTrait.php
+            [message] => No short description for element '$queryBuilder'
+        )
+
+    [401] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2\db\conditions\ConjunctionCondition.php
+            [message] => No short description for element '$expressions'
+        )
+
+    [402] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2\grid\GridViewAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [403] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2\grid\GridViewAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [404] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2\grid\GridViewAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [405] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2\grid\GridViewAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [406] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2\grid\GridViewAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [407] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2\grid\GridViewAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+    [408] => Array
+        (
+            [line] => 30
+            [file] => ..\yiisoft\yii2\helpers\BaseJson.php
+            [message] => No short description for element '$jsonErrorMessages'
+        )
+
+    [409] => Array
+        (
+            [line] => 37
+            [file] => ..\yiisoft\yii2\i18n\GettextMessageSource.php
+            [message] => No short description for element '$basePath'
+        )
+
+    [410] => Array
+        (
+            [line] => 41
+            [file] => ..\yiisoft\yii2\i18n\GettextMessageSource.php
+            [message] => No short description for element '$catalog'
+        )
+
+    [411] => Array
+        (
+            [line] => 45
+            [file] => ..\yiisoft\yii2\i18n\GettextMessageSource.php
+            [message] => No short description for element '$useMoFile'
+        )
+
+    [412] => Array
+        (
+            [line] => 49
+            [file] => ..\yiisoft\yii2\i18n\GettextMessageSource.php
+            [message] => No short description for element '$useBigEndian'
+        )
+
+    [413] => Array
+        (
+            [line] => 977
+            [file] => ..\yiisoft\yii2\rbac\DbManager.php
+            [message] => No docblock for element 'invalidateCache'
+        )
+
+    [414] => Array
+        (
+            [line] => 988
+            [file] => ..\yiisoft\yii2\rbac\DbManager.php
+            [message] => No docblock for element 'loadFromCache'
+        )
+
+    [415] => Array
+        (
+            [line] => 67
+            [file] => ..\yiisoft\yii2\rbac\PhpManager.php
+            [message] => No short description for element '$items'
+        )
+
+    [416] => Array
+        (
+            [line] => 71
+            [file] => ..\yiisoft\yii2\rbac\PhpManager.php
+            [message] => No short description for element '$children'
+        )
+
+    [417] => Array
+        (
+            [line] => 75
+            [file] => ..\yiisoft\yii2\rbac\PhpManager.php
+            [message] => No short description for element '$assignments'
+        )
+
+    [418] => Array
+        (
+            [line] => 79
+            [file] => ..\yiisoft\yii2\rbac\PhpManager.php
+            [message] => No short description for element '$rules'
+        )
+
+    [419] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2\validators\PunycodeAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [420] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2\validators\PunycodeAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [421] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2\validators\PunycodeAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [422] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2\validators\PunycodeAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [423] => Array
+        (
+            [line] => 86
+            [file] => ..\yiisoft\yii2\validators\UniqueValidator.php
+            [message] => No short description for element '$comboNotUnique'
+        )
+
+    [424] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2\validators\ValidationAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [425] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2\validators\ValidationAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [426] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2\validators\ValidationAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [427] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2\validators\ValidationAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [428] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2\validators\ValidationAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [429] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2\validators\ValidationAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+    [430] => Array
+        (
+            [line] => 18
+            [file] => ..\yiisoft\yii2\web\JqueryAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [431] => Array
+        (
+            [line] => 18
+            [file] => ..\yiisoft\yii2\web\JqueryAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [432] => Array
+        (
+            [line] => 19
+            [file] => ..\yiisoft\yii2\web\JqueryAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [433] => Array
+        (
+            [line] => 19
+            [file] => ..\yiisoft\yii2\web\JqueryAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [434] => Array
+        (
+            [line] => 18
+            [file] => ..\yiisoft\yii2\web\YiiAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [435] => Array
+        (
+            [line] => 18
+            [file] => ..\yiisoft\yii2\web\YiiAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [436] => Array
+        (
+            [line] => 19
+            [file] => ..\yiisoft\yii2\web\YiiAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [437] => Array
+        (
+            [line] => 19
+            [file] => ..\yiisoft\yii2\web\YiiAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [438] => Array
+        (
+            [line] => 22
+            [file] => ..\yiisoft\yii2\web\YiiAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [439] => Array
+        (
+            [line] => 22
+            [file] => ..\yiisoft\yii2\web\YiiAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+    [440] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2\widgets\ActiveFormAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [441] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2\widgets\ActiveFormAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [442] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2\widgets\ActiveFormAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [443] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2\widgets\ActiveFormAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [444] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2\widgets\ActiveFormAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [445] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2\widgets\ActiveFormAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+    [446] => Array
+        (
+            [line] => 22
+            [file] => ..\yiisoft\yii2\widgets\MaskedInputAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [447] => Array
+        (
+            [line] => 22
+            [file] => ..\yiisoft\yii2\widgets\MaskedInputAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [448] => Array
+        (
+            [line] => 23
+            [file] => ..\yiisoft\yii2\widgets\MaskedInputAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [449] => Array
+        (
+            [line] => 23
+            [file] => ..\yiisoft\yii2\widgets\MaskedInputAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [450] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2\widgets\MaskedInputAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [451] => Array
+        (
+            [line] => 26
+            [file] => ..\yiisoft\yii2\widgets\MaskedInputAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+    [452] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2\widgets\PjaxAsset.php
+            [message] => No docblock for element '$sourcePath'
+        )
+
+    [453] => Array
+        (
+            [line] => 20
+            [file] => ..\yiisoft\yii2\widgets\PjaxAsset.php
+            [message] => No short description for element '$sourcePath'
+        )
+
+    [454] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2\widgets\PjaxAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [455] => Array
+        (
+            [line] => 21
+            [file] => ..\yiisoft\yii2\widgets\PjaxAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [456] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2\widgets\PjaxAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [457] => Array
+        (
+            [line] => 24
+            [file] => ..\yiisoft\yii2\widgets\PjaxAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+)
